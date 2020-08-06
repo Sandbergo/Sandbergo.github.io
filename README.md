@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-Personal portfolio website.
+Personal website for my software portfolio and mini-blog.
 </p>
 <br> 
 
