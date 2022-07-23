@@ -18,7 +18,7 @@ Personal website for my software portfolio and mini-blog.
 A small static site generated with Jekyll containing some information about me.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-* [https://jekyllrb.com/](Jekyll)
+* [Jekyll](https://jekyllrb.com/)
     
 ## ✍️ Authors <a name = "authors"></a>
 - Lars Sandberg [@Sandbergo](https://github.com/Sandbergo)
